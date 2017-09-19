@@ -1,0 +1,2 @@
+- name: Install angular cli
+  shell:  'npm  install -g angular-cli@latest'
